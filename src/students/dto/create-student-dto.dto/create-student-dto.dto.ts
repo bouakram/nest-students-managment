@@ -9,4 +9,7 @@ export class CreateStudentDto {
 
     @IsString()
     readonly address: string[];
+
+    @IsString()
+    readonly courses: string[];
 }
