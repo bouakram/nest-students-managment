@@ -1,0 +1,1 @@
+GET "http://lcalhost:3000/students" HTTP/1.1
